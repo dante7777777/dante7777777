@@ -15,7 +15,6 @@ mahoor parsa
 dante parsa .....
 ahoura parsa
 mariyana
-Action
 do it
 sui that is 
 delivered
@@ -25,3 +24,4 @@ chrome misses
 youtube gmail
 Alternatively use moving tole
 zk Strk BAse Scroll
+mint blokchain
