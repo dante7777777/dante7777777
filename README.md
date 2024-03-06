@@ -14,7 +14,7 @@ haha
 mahoor parsa
 dante parsa .....
 ahoura parsa
-mariyana
+mariyana chaim lisy she doesnt follow me 
 do it
 sui that is 
 delivered
