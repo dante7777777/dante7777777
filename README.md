@@ -15,14 +15,7 @@ mahoor parsa
 dante parsa .....
 ahoura parsa
 mariyana chaim lisy she doesnt follow me 
-do it
-sui that is 
-delivered
-control
-united Fan 
-chrome misses 
-youtube gmail
-Alternatively use moving tole
 zk Strk BAse Scroll
 mint blokchain
 linea scroll click drop 
+attach file bye dragging and dropping selecting or posing the, 
