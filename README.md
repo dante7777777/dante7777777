@@ -11,11 +11,5 @@ dante7777777/dante7777777 is a ✨ special ✨ repository because its `README.md
 i love github haha
 do u know me ??
 haha
-mahoor parsa
-dante parsa .....
-ahoura parsa
-mariyana chaim lisy she doesnt follow me 
-zk Strk BAse Scroll
-mint blokchain
-linea scroll click drop 
+rop 
 attach file bye dragging and dropping selecting or posing the, 
