@@ -22,7 +22,6 @@ const initTheme = () => {	const initTheme = () => {
 
 
 
-export default function Layout({ children, lang }) {	export default function Layout({ children, lang }) {
   useEffect(() => {	  useEffect(() => {
 @@ -105,22 +103,15 @@ export default function Layout({ children, lang }) {
             <span className="text-base font-medium">{t("view-source-code")}</span>	            <span className="text-base font-medium">{t("view-source-code")}</span>
