@@ -3,8 +3,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 @@ -12,19 +12,17 @@ const toggleTheme = (e) => {
-  document.getElementById("theme-toggle-dark-icon").classList.toggle("hidden");	  document.getElementById("theme-toggle-dark-icon").classList.toggle("hidden");
-  document.getElementById("theme-toggle-light-icon").classList.toggle("hidden");	  document.getElementById("theme-toggle-light-icon").classList.toggle("hidden");
+  document.getElementById("theme-toggle-dark-icon").classList.toggle("hidden");	  document.getElementById
   const result = element.classList.toggle("dark");	  const result = element.classList.toggle("dark");
   localStorage.setItem('theme', result ? 'dark' : 'light');	  localStorage.setItem("theme", result ? "dark" : "light");
 }	};
@@ -47,10 +46,7 @@ const initTheme = () => {	const initTheme = () => {
 @@ -140,7 +131,7 @@ export default function Layout({ children, lang }) {
         </div>	        </div>
       </div>	      </div>
-      <div className="dark:bg-[#181818] bg-[#f3f3f3] p-5 relative flex flex-col gap-5">	      <div className="dark:bg-[#181818] bg-[#f3f3f3] p-5 relative flex flex-col gap-5">
-        <Header lang={lang} chainName={chainName} key={chainName} />	        <Header lang={lang} chainName={chainName} key={chainName + "header"} />
-
-
+      <div className="dark:bg-[#181818] bg-[#f3f3f3] p-5 relative flex flex-col gap-5">	      <div className="dark:bg-[#181818] bg-[#f3f3f3] p-5 relative flex flex-col gap-5"
         {children}	        {children}
       </div>	      </div>
   49 changes: 23 additions & 26 deletions49  
