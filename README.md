@@ -59,8 +59,6 @@ components/RPCList/index.js
             let className = 'bg-inherit';	            let className = "bg-inherit";
 
 
-            if (hasLlamaNodesRpc && index === 0) {	            if (hasLlamaNodesRpc && index === 0) {
-              className = 'dark:bg-[#0D0D0D] bg-[#F9F9F9]';	              className = "dark:bg-[#0D0D0D] bg-[#F9F9F9]";
             }	            }
 
 
