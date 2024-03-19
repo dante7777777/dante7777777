@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @dante7777777
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
 @@ -12,19 +12,17 @@ const toggleTheme = (e) => {
   document.getElementById("theme-toggle-dark-icon").classList.toggle("hidden");	  document.getElementById
