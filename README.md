@@ -1,6 +1,4 @@
 
-@@ -12,19 +12,17 @@ const toggleTheme = (e) => {
-  document.getElementById("theme-toggle-dark-icon").classList.toggle("hidden");	  document.getElementById
   const result = element.classList.toggle("dark");	  const result = element.classList.toggle("dark");
   localStorage.setItem('theme', result ? 'dark' : 'light');	  localStorage.setItem("theme", result ? "dark" : "light");
 }	};
