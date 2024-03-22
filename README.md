@@ -1,8 +1,4 @@
 
-  const result = element.classList.toggle("dark");	  const result = element.classList.toggle("dark");
-  localStorage.setItem('theme', result ? 'dark' : 'light');	  localStorage.setItem("theme", result ? "dark" : "light");
-}	};
-
 
 const initTheme = () => {	const initTheme = () => {
   const element = document.body;	  const element = document.body;
