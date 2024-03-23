@@ -2,9 +2,7 @@
 
 const initTheme = () => {	const initTheme = () => {
   const element = document.body;	  const element = document.body;
-  if(element.classList.contains('dark')) {	  if (element.classList.contains("dark")) 
-  useEffect(() => {	  useEffect(() => {
-@@ -105,22 +103,15 @@ export default function Layout({ children, lang }) {
+ 
             <span className="text-base font-medium">{t("view-source-code")}</span>	            <span className="text-base font-medium">{t("view-source-code")}</span>
           </a>	          </a>
 
