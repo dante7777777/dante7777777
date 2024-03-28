@@ -1,7 +1,4 @@
 
-          </a>	          </a>
-
-
           <a	          <a className="flex items-center gap-2 mx-auto lg:ml-0" href="#" onClick={toggleTheme} id="theme-toggle">
             className="flex items-center gap-2 mx-auto lg:ml-0"	
             href="#"	
