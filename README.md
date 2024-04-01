@@ -1,8 +1,6 @@
-   className="flex items-center gap-2 mx-auto lg:ml-0"	
             href="#"	
             onClick={toggleTheme}	
-            id="theme-toggle"	
-          >	
+            id="theme-toggle"
             <svg	            <svg
               id="theme-toggle-dark-icon"	              id="theme-toggle-dark-icon"
               className="w-5 h-5 hidden"	              className="w-5 h-5 hidden"
