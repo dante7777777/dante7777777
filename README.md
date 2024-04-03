@@ -9,8 +9,7 @@
               xmlns="http://www.w3.org/2000/svg"	              xmlns="http://www.w3.org/2000/svg
               ></path>	
             </svg>	            </svg>
-            <svg	            <svg
-              id="theme-toggle-light-icon"	              id="theme-toggle-light-icon"
+            <svg	            <svg             id="theme-toggle-light-icon"
 @@ -140,7 +131,7 @@ export default function Layout({ children, lang }) {
         </div>	        </div>
       </div>	      </div>	      <div className="dark:bg-[#181818] bg-[#f3f3f3] p-5 relative flex flex-col gap-5"
