@@ -1,6 +1,3 @@
-            href="#"	
-            onClick={toggleTheme}	
-            id="theme-toggle"
             <svg	            <svg
               id="theme-toggle-dark-icon"	              id="theme-toggle-dark-icon"
               className="w-5 h-5 hidden"	              className="w-5 h-5 hidden"
