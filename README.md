@@ -1,5 +1,4 @@
-              fill="#2F80ED"	              fill="#2F80ED"
-              viewBox="0 0 20 20"	              viewBox="0 0 20 20"
+        viewBox="0 0 20 20"	              viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg"	              xmlns="http://www.w3.org/2000/svg
               ></path>	
             </svg>	            </svg>
