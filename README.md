@@ -1,5 +1,4 @@
-              xmlns="http://www.w3.org/2000/svg"	              xmlns="http://www.w3.org/2000/svg
-              ></path>	
+    ></path>	
             </svg>	            </svg>
             <svg	            <svg             id="theme-toggle-light-icon"
 @@ -140,7 +131,7 @@ export default function Layout({ children, lang }) {
