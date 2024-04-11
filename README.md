@@ -30,9 +30,7 @@ components/RPCList/index.js
             return (	            return (
               <Row	              <Row
                 values={item}	                values={item}
-                chain={chain}	                chain={chain}
-                key={index}	                key={item.data.url + chain + lang}dante7777777/dante7777777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-i love github haha
+                chain={chain}	                chain={chain}i love github haha
 do u know me ??
 haha
 
