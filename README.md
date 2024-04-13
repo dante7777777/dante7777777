@@ -1,5 +1,3 @@
-
-          <svg	            <svg             id="theme-toggle-light-icon"
 @@ -140,7 +131,7 @@ export default function Layout({ children, lang }) {
         </div>	        </div>
         {children}	        {children}
