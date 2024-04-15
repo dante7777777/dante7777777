@@ -1,4 +1,3 @@
-@@ -140,7 +131,7 @@ export default function Layout({ children, lang }) {
         </div>	        </div>
         {children}	        {children}
       </div>	      </div>
