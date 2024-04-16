@@ -1,4 +1,3 @@
-        </div>	        </div>
         {children}	        {children}
       </div>	      </div>
   49 changes: 23 additions & 26 deletions49  
