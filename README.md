@@ -1,5 +1,4 @@
         {children}	        {children}
-      </div>	      </div>
   49 changes: 23 additions & 26 deletions49  
 components/RPCList/index.js
 @@ -81,7 +81,6 @@ export default function RPCList({ chain, lang }) {
