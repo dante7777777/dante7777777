@@ -1,7 +1,4 @@
-components/RPCList/index.js
-@@ -81,7 +81,6 @@ export default function RPCList({ chain, lang }) {
-
-
+components/RPCList/index.jsist({ chain, lang }) 
   return (	  return (
     <div className="shadow dark:bg-[#0D0D0D] bg-white p-8 rounded-[10px] flex flex-col gap-3 overflow-hidden col-span-full relative overflow-x-auto">	    <div className="shadow dark:bg-[#0D0D0D] bg-white p-8 rounded-[10px] flex flex-col gap-3 overflow-hidden col-span-full relative overflow-x-auto">
 
