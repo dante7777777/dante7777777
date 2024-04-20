@@ -4,7 +4,6 @@ components/RPCList/index.jsist({ chain, lang })
 
       <table className="m-0 border-collapse whitespace-nowrap dark:text-[#B3B3B3] text-black">	      <table className="m-0 border-collapse whitespace-nowrap dark:text-[#B3B3B3] text-black">
         <caption className="relative w-full px-3 py-1 text-base font-medium border border-b-0">	        <caption className="relative w-full px-3 py-1 text-base font-medium border border-b-0">
-          <span className="mr-4">{`${chain.name} RPC URL List`}</span>	          <span className="mr-4">{`${chain.name} RPC URL List`}</span>
 @@ -120,22 +119,22 @@ export default function RPCList({ chain, lang }) {
 
 
