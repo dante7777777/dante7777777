@@ -16,8 +16,6 @@ components/RPCList/index.jsist({ chain, lang })
 
             return (	            return (
               <Row	              <Row
-                values={item}	                values={item}
-                chain={chain}	                chain={chain}i love github haha
 do u know me ??
 haha
 
