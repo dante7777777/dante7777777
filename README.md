@@ -14,8 +14,6 @@ components/RPCList/index.jsist({ chain, lang })
             }	            }
 
 
-            return (	            return (
-              <Row	              <Row
-do u know me ??
+            return (	            return 
 haha
 
