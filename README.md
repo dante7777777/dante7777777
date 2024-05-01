@@ -4,9 +4,7 @@
 @@ -120,22 +119,22 @@ export default function RPCList({ chain, lang }) {
 
 
-        <tbody>	        <tbody>
-            let className = 'bg-inherit';	            let className = "bg-inherit";
-
+        <tbody>	        <tbody
 
             }	            }
 
